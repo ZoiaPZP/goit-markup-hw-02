@@ -1,5 +1,8 @@
 body {
     font-family: 'Roboto', sans-serif; 
+    color: #434455;
+    background-color: #FFFFFF;
+
 }
 
 ul {
@@ -27,7 +30,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.166;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -36,7 +39,7 @@ a {
 .header-logo-black {
     color: #2e2f42;
 }
-
+Я так розумію що потрібно вставити тільки ось це
 .header-menu-link {
     font-weight: 500;
     font-size: 16px;
@@ -47,7 +50,7 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-    color: coral;
+ color: #404bbf  
 }
 
 
@@ -146,7 +149,7 @@ background: #2e2f42;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
+    text-transform: capitalize
     color: #2e2f42;
 }
 
@@ -201,7 +204,7 @@ background: #2e2f42;
 .footer-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.17;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
