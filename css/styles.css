@@ -50,9 +50,8 @@ a {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
- color: #404bbf  
+    color: #404bbf;
 }
-
 
 .header-contact-link {
     font-weight: 400;
@@ -62,6 +61,7 @@ a {
     color: #434455;
     font-style: normal;
 }
+
 /* ---------------------HERO------------------ */
 
 .hero {
