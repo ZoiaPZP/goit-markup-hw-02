@@ -22,9 +22,9 @@ a {
 
 .header-menu-item {}
 
-.header-contact-list {}
+.header-address-list {}
 
-.header-contact-item {}
+.header-address-item {}
 
 .header-logo {
     font-family: "Raleway", sans-serif;
@@ -48,21 +48,19 @@ a {
     color: #2e2f42;
 }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404bbf;
+}
+
 .header-address-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
-
-
-.header-menu-link:hover,
-.header-menu-link:focus {
-    color: #404bbf;
 }
 
-
-}
 /* ---------------------HERO------------------ */
 
 .hero {
@@ -101,23 +99,22 @@ a {
 }
 
 .features-title {
-    font-weight: 700;
-    font-size: 36px;
+    font-weight: 500;
+    font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
 }
 
 .features-description {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
-    
-
+}
+  
 .features-list {
     list-style: none;
     
@@ -136,12 +133,13 @@ a {
 }
 
 .features-item-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+
 /* ---------------------------------- */
 
 .team {
@@ -174,7 +172,6 @@ a {
 }
 
 .team-member-role {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -213,7 +210,6 @@ a {
 }
 
 .portfolio-item-category {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -249,7 +245,6 @@ background-color #2e2f42;
 }
 
 .footer-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
