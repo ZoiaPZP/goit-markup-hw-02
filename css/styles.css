@@ -48,17 +48,20 @@ a {
     color: #2e2f42;
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus {
-    color: #404bbf;
-}
-
 .header-address-link {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
+
+
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404bbf;
+}
+
+
 }
 /* ---------------------HERO------------------ */
 
