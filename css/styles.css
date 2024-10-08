@@ -41,6 +41,10 @@ a {
     color: #404bbf;
 }
 
+.header-address {
+    font-style: normal;
+}
+
 .header-address-link {
     font-size: 16px;
     line-height: 1.5;
